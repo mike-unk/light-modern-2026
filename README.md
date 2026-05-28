@@ -13,10 +13,6 @@ This theme is designed to reduce visual noise while maintaining strong contrast 
 - ⚡ Carefully tuned syntax and UI balance
 - 📦 Fully compatible with VS Code theme system
 
-## 🎨 Preview
-
-TODO: Screenshots
-
 ## 🚀 Installation
 
 ### From VS Code Marketplace

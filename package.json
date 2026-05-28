@@ -3,11 +3,24 @@
   "displayName": "Light Modern 2026",
   "description": "A refined Light Modern theme with One Light and Light 2026 elements.",
   "version": "0.0.1",
+  "publisher": "mike-unk",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.120.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "default",
+    "vscode",
+    "atom",
+    "light",
+    "modern",
+    "light modern",
+    "one light",
+    "light 2026"
   ],
   "contributes": {
     "themes": [
@@ -17,5 +30,14 @@
         "path": "./themes/light-modern-2026.json"
       }
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/mike-unk/light-modern-2026/issues",
+    "email": "mike_unk@outlook.com"
+  },
+  "homepage": "https://github.com/mike-unk/light-modern-2026",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mike-unk/light-modern-2026"
   }
 }
