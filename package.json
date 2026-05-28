@@ -1,0 +1,21 @@
+{
+  "name": "light-modern-2026",
+  "displayName": "Light Modern 2026",
+  "description": "A refined Light Modern theme with One Light and Light 2026 elements.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Modern 2026",
+        "uiTheme": "vs",
+        "path": "./themes/light-modern-2026.json"
+      }
+    ]
+  }
+}
