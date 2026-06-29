@@ -13,6 +13,10 @@ This theme is designed to reduce visual noise while maintaining strong contrast 
 - ⚡ Carefully tuned syntax and UI balance
 - 📦 Fully compatible with VS Code theme system
 
+## 📷 Screenshot
+
+![Screenshot](images/screenshot.png)
+
 ## 🚀 Installation
 
 ### From VS Code Marketplace

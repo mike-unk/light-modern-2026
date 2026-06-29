@@ -2,11 +2,12 @@
   "name": "light-modern-2026",
   "displayName": "Light Modern 2026",
   "description": "A refined Light Modern theme with One Light and Light 2026 elements.",
-  "version": "0.0.1",
+  "icon": "images/icon.png",
+  "version": "0.0.2",
   "publisher": "mike-unk",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.105.0"
   },
   "categories": [
     "Themes"
