@@ -2,6 +2,10 @@
 
 All notable changes to the "light-modern-2026" extension will be documented in this file.
 
+## [0.0.3] - 2026-06-29
+
+- Change color palette to Light Modern
+
 ## [0.0.2] - 2026-06-29
 
 - Fixed comment color

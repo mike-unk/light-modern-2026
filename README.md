@@ -30,7 +30,7 @@ Or install directly from the Extensions panel.
 After installation:
 
 1. Open Command Palette
-   `Ctrl + K → Ctrl + T`
+   `Ctrl + K` → `Ctrl + T`
 2. Select `Light Modern 2026`
 
 ## 📌 Notes
